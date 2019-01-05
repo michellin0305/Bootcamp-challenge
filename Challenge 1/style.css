@@ -1,6 +1,7 @@
 input{
     width: 300px;
     border-color: red;
+    border-style: solid;
 }
 input:focus{
     border-color: green;
