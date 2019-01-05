@@ -1,0 +1,13 @@
+input{
+    width: 300px;
+    border-color: red;
+}
+input:focus{
+    border-color: green;
+}
+
+@media screen and (min-width: 350px){
+    input{
+        width: 150px;
+    }
+}
